@@ -1,10 +1,10 @@
 @font-face {
-	font-family: "game-icons";
-	src: url('https://shatteredprophecy.github.io/Code1/estilos/game-icons.eot');
-	src: url('https://shatteredprophecy.github.io/Code1/estilos/game-icons (1).eot') format('eot'),
-		url('https://shatteredprophecy.github.io/Code1/estilos/game-icons.woff') format('woff'),
-		url('https://shatteredprophecy.github.io/Code1/estilos/game-icons.ttf') format('truetype'),
-		url('./game-icons.svg#game-icons') format('svg');
+	font-family: 'game-icons';
+src: url("./game-icons.eot") format("embedded-opentype"),
+src: url("/game-icons (1).eot") format("embedded-opentype"),
+url("./game-icons.woff") format("woff"),
+url("./game-icons.ttf") format("truetype");
+url('./game-icons.svg#game-icons') format('svg')
 }
 
 .game-icon:before {

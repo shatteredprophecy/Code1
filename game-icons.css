@@ -1,24 +1,20 @@
 @font-face {
-	font-family: "game-icons";
-	src: url('https://dl.dropbox.com/s/s6721o6za7cgiuh/game-icons.eot');
-	src: url('https://dl.dropbox.com/s/s6721o6za7cgiuh/game-icons.eot?#iefix') format('eot'),
-		url('https://dl.dropbox.com/s/9zoe2raly7s7bwn/game-icons.woff') format('woff'),
-		url('https://dl.dropbox.com/s/b280pqmo4o8asou/game-icons.ttf') format('truetype'),
-		url('./game-icons.svg#game-icons') format('svg');
+	font-family: 'game-icons';
+src: url("./game-icons.eot") format("embedded-opentype"),
+url("./game-icons.woff") format("woff"),
+url("./game-icons.ttf") format("truetype");
+}
+
+.game-icon {
+	line-height: 1;
 }
 
 .game-icon:before {
-	font-family: "game-icons";
-		-webkit-font-smoothing: antialiased;
-		-moz-osx-font-smoothing: grayscale;
+	font-family: game-icons !important;
 	font-style: normal;
-	font-variant: normal;
-	font-weight: normal;
-	/* speak: none; only necessary if not using the private unicode range (firstGlyph option) */
-	text-decoration: none;
-	text-transform: none;
+	font-weight: normal !important;
+	vertical-align: top;
 }
-
 
 .game-icon-police-badge:before {
 	content: "\E001";

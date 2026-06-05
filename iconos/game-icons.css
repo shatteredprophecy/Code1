@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'game-icons';
-src: url("./game-icons.eot") format("embedded-opentype"),
+src: url("./game-icons.eot") format("embedded-opentype");
 src: url("/game-icons (1).eot") format("embedded-opentype"),
 url("./game-icons.woff") format("woff"),
 url("./game-icons.ttf") format("truetype"),

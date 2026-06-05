@@ -1,10 +1,11 @@
 @font-face {
 	font-family: 'game-icons';
 src: url("./game-icons.eot") format("embedded-opentype"),
-url("./game-icons.woff") format("woff"),
-url("./game-icons.ttf") format("truetype");
-url('https://dl.dropbox.com/s/s6721o6za7cgiuh/game-icons.eot?#iefix') format('eot'),
-url('./game-icons.svg#game-icons') format('svg');
+src: url("./game-icons.woff") format("woff"),
+src: url("./game-icons.ttf") format("truetype");
+src: url('https://dl.dropbox.com/s/s6721o6za7cgiuh/game-icons.eot?#iefix') format('eot'),
+src: url('./game-icons.svg#game-icons') format('svg');
+src: url('https://dl.dropbox.com/s/s6721o6za7cgiuh/game-icons.eot');
 }
 
 .game-icon:before {

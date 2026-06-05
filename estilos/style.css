@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WeAreDemigods';
-  src:  url('https://github.com/shatteredprophecy/Code1/blob/0609a3dd5ea20005435b66a618f12b103ecefd0c/estilos/WeAreDemigods.eot');
-  src:  url('https://github.com/shatteredprophecy/Code1/blob/0609a3dd5ea20005435b66a618f12b103ecefd0c/estilos/WeAreDemigods%20(1).eot') format('embedded-opentype'),
-    url('https://github.com/shatteredprophecy/Code1/blob/0609a3dd5ea20005435b66a618f12b103ecefd0c/estilos/WeAreDemigods.ttf') format('truetype'),
-    url('https://github.com/shatteredprophecy/Code1/blob/0609a3dd5ea20005435b66a618f12b103ecefd0c/estilos/WeAreDemigods.woff') format('woff'),
-    url('https://github.com/shatteredprophecy/Code1/blob/0609a3dd5ea20005435b66a618f12b103ecefd0c/estilos/WeAreDemigods.svg') format('svg');
+  src:  url('https://shatteredprophecy.github.io/Code1/estilos/WeAreDemigods.eot');
+  src:  url('https://shatteredprophecy.github.io/Code1/estilos/WeAreDemigods (1).eot') format('embedded-opentype'),
+    url('https://shatteredprophecy.github.io/Code1/estilos/WeAreDemigods.ttf') format('truetype'),
+    url('https://shatteredprophecy.github.io/Code1/estilos/WeAreDemigods.woff') format('woff'),
+    url('https://shatteredprophecy.github.io/Code1/estilos/WeAreDemigods.svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

@@ -1,9 +1,9 @@
 @font-face {
 	font-family: "game-icons";
-	src: url('https://dl.dropbox.com/s/s6721o6za7cgiuh/game-icons.eot');
-	src: url('https://dl.dropbox.com/s/s6721o6za7cgiuh/game-icons.eot?#iefix') format('eot'),
-		url('https://dl.dropbox.com/s/9zoe2raly7s7bwn/game-icons.woff') format('woff'),
-		url('https://dl.dropbox.com/s/b280pqmo4o8asou/game-icons.ttf') format('truetype'),
+	src: url('https://github.com/shatteredprophecy/Code1/blob/6c2987bab8c6fcf520ac0ce40882b8d3d4022d47/iconos/game-icons.eot');
+	src: url('https://github.com/shatteredprophecy/Code1/blob/6c2987bab8c6fcf520ac0ce40882b8d3d4022d47/iconos/game-icons%20(1).eot') format('eot'),
+		url('https://github.com/shatteredprophecy/Code1/blob/6c2987bab8c6fcf520ac0ce40882b8d3d4022d47/iconos/game-icons.woff') format('woff'),
+		url('https://github.com/shatteredprophecy/Code1/blob/6c2987bab8c6fcf520ac0ce40882b8d3d4022d47/iconos/game-icons.ttf') format('truetype'),
 		url('./game-icons.svg#game-icons') format('svg');
 }
 

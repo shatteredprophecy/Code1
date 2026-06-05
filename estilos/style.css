@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'WeAreDemigods';
-  src:  url('https://shatteredprophecy.github.io/Code1/estilos/WeAreDemigods.eot');
-  src:  url('https://shatteredprophecy.github.io/Code1/estilos/WeAreDemigods (1).eot') format('embedded-opentype'),
-    url('https://shatteredprophecy.github.io/Code1/estilos/WeAreDemigods.ttf') format('truetype'),
-    url('https://shatteredprophecy.github.io/Code1/estilos/WeAreDemigods.woff') format('woff'),
-    url('https://shatteredprophecy.github.io/Code1/estilos/WeAreDemigods.svg') format('svg');
+  src:  url('./WeAreDemigods.eot');
+  src:  url('./WeAreDemigods (1).eot') format('embedded-opentype'),
+    url('./WeAreDemigods.ttf') format('truetype'),
+    url('./WeAreDemigods.woff') format('woff'),
+    url('./WeAreDemigods.svg') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;

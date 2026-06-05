@@ -1,0 +1,370 @@
+@font-face {
+  font-family: 'WeAreDemigods';
+  src:  url('https://dl.dropbox.com/s/wkgk9j661fqqumi/WeAreDemigods.eot');
+  src:  url('https://dl.dropbox.com/s/wkgk9j661fqqumi/WeAreDemigods.eot#iefix') format('embedded-opentype'),
+    url('https://dl.dropbox.com/s/uggkr10gcf750o9/WeAreDemigods.ttf') format('truetype'),
+    url('https://dl.dropbox.com/s/r28otqpear3mj6l/WeAreDemigods.woff') format('woff'),
+    url('https://dl.dropbox.com/s/p00o4r9qgawzuky/WeAreDemigods.svg#WeAreDemigods') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="wad-"], [class*=" wad-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'WeAreDemigods' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wad-bomba-humo:before {
+  content: "\e92c";
+}
+.wad-cebo:before {
+  content: "\e92d";
+}
+.wad-bomba-gallina:before {
+  content: "\e92f";
+}
+.wad-bomba-cegadora:before {
+  content: "\e966";
+}
+.wad-veneno:before {
+  content: "\e967";
+}
+.wad-bomba-niebla:before {
+  content: "\e968";
+}
+.wad-favor-thanatos:before {
+  content: "\e969";
+}
+.wad-plus-loot:before {
+  content: "\e96d";
+}
+.wad-plus-dracmas:before {
+  content: "\e96e";
+}
+.wad-tirita-mestiza:before {
+  content: "\e96c";
+}
+.wad-pomada-refrescante:before {
+  content: "\e907";
+}
+.wad-pomada-curativa:before {
+  content: "\e900";
+}
+.wad-pomada-ninfas:before {
+  content: "\e908";
+}
+.wad-extracto-nectar:before {
+  content: "\e905";
+}
+.wad-chicle-nectar:before {
+  content: "\e904";
+}
+.wad-nectar:before {
+  content: "\e906";
+}
+.wad-chicle-medicina:before {
+  content: "\e903";
+}
+.wad-ambrosia:before {
+  content: "\e901";
+}
+.wad-golosina-ambrosia:before {
+  content: "\e902";
+}
+.wad-flor-vigorizante:before {
+  content: "\e90c";
+}
+.wad-semilla-vigorizante:before {
+  content: "\e90f";
+}
+.wad-semilla-apestosa:before {
+  content: "\e909";
+}
+.wad-hojas-demeter:before {
+  content: "\e90a";
+}
+.wad-don-asclepio:before {
+  content: "\e90b";
+}
+.wad-veneno-ventajoso:before {
+  content: "\e90d";
+}
+.wad-vendas:before {
+  content: "\e90e";
+}
+.wad-hoja-olimpo:before {
+  content: "\e910";
+}
+.wad-espada:before {
+  content: "\e937";
+}
+.wad-cuchillo:before {
+  content: "\e936";
+}
+.wad-lanza:before {
+  content: "\e935";
+}
+.wad-hacha:before {
+  content: "\e930";
+}
+.wad-escudo:before {
+  content: "\e934";
+}
+.wad-arco:before {
+  content: "\e931";
+}
+.wad-guantelete:before {
+  content: "\e933";
+}
+.wad-casco-perfeccionado:before {
+  content: "\e92b";
+}
+.wad-casco-japeto:before {
+  content: "\e928";
+}
+.wad-casco-flecha-oro:before {
+  content: "\e929";
+}
+.wad-casco-plata-acelerada:before {
+  content: "\e911";
+}
+.wad-casco-plomo-pesado:before {
+  content: "\e912";
+}
+.wad-casco-centauro:before {
+  content: "\e913";
+}
+.wad-casco-acero:before {
+  content: "\e914";
+}
+.wad-casco-oro:before {
+  content: "\e915";
+}
+.wad-casco-escamas-hierro:before {
+  content: "\e916";
+}
+.wad-casco-bronce-endurecido:before {
+  content: "\e917";
+}
+.wad-casco-bici:before {
+  content: "\e918";
+}
+.wad-casco-reforzado:before {
+  content: "\e919";
+}
+.wad-casco-cefiro:before {
+  content: "\e91a";
+}
+.wad-casco-persistente:before {
+  content: "\e91b";
+}
+.wad-casco-heroe:before {
+  content: "\e91c";
+}
+.wad-casco-berseker:before {
+  content: "\e91d";
+}
+.wad-casco-marmol-inmortal:before {
+  content: "\e91e";
+}
+.wad-casco-elemental:before {
+  content: "\e91f";
+}
+.wad-casco-asclepio:before {
+  content: "\e920";
+}
+.wad-casco-bronce:before {
+  content: "\e921";
+}
+.wad-casco-titan:before {
+  content: "\e922";
+}
+.wad-casco-pechera-inframundo:before {
+  content: "\e923";
+}
+.wad-casco-olimpo:before {
+  content: "\e924";
+}
+.wad-casco-cuero:before {
+  content: "\e925";
+}
+.wad-casco-pinchos:before {
+  content: "\e926";
+}
+.wad-casco-hierro-indestructible:before {
+  content: "\e927";
+}
+.wad-casco-athenea:before {
+  content: "\e94b";
+}
+.wad-cobalto-pesado:before {
+  content: "\e92a";
+}
+.wad-marmol-inmortal:before {
+  content: "\e938";
+}
+.wad-flecha-oro:before {
+  content: "\e93a";
+}
+.wad-pechera-inframundo:before {
+  content: "\e93b";
+}
+.wad-cefiro:before {
+  content: "\e93c";
+}
+.wad-perfeccionada:before {
+  content: "\e93d";
+}
+.wad-hierro-indestructible:before {
+  content: "\e93e";
+}
+.wad-cuero-endurecido:before {
+  content: "\e93f";
+}
+.wad-athenea:before {
+  content: "\e940";
+}
+.wad-titan:before {
+  content: "\e941";
+}
+.wad-olimpo:before {
+  content: "\e942";
+}
+.wad-plomo-pesado:before {
+  content: "\e943";
+}
+.wad-cristal-resplandeciente:before {
+  content: "\e944";
+}
+.wad-coloso:before {
+  content: "\e945";
+}
+.wad-aquiles:before {
+  content: "\e946";
+}
+.wad-asclepio:before {
+  content: "\e947";
+}
+.wad-japeto:before {
+  content: "\e949";
+}
+.wad-plata-acelerada:before {
+  content: "\e94a";
+}
+.wad-persistente:before {
+  content: "\e94c";
+}
+.wad-berseker:before {
+  content: "\e94e";
+}
+.wad-elemental:before {
+  content: "\e94f";
+}
+.wad-pinchos:before {
+  content: "\e950";
+}
+.wad-proteccion-bendecida:before {
+  content: "\e951";
+}
+.wad-cuero-liviano:before {
+  content: "\e952";
+}
+.wad-centauro:before {
+  content: "\e953";
+}
+.wad-heroe:before {
+  content: "\e954";
+}
+.wad-cobre-calido:before {
+  content: "\e955";
+}
+.wad-cuero-danado:before {
+  content: "\e956";
+}
+.wad-cuero-oro:before {
+  content: "\e957";
+}
+.wad-acero-templado:before {
+  content: "\e958";
+}
+.wad-bronce-endurecido:before {
+  content: "\e959";
+}
+.wad-coraza-placas:before {
+  content: "\e95a";
+}
+.wad-pechera-bronce:before {
+  content: "\e95b";
+}
+.wad-predilecto:before {
+  content: "\e95c";
+}
+.wad-troyana:before {
+  content: "\e95d";
+}
+.wad-oro-radiante:before {
+  content: "\e95f";
+}
+.wad-cuero:before {
+  content: "\e960";
+}
+.wad-sacro:before {
+  content: "\e961";
+}
+.wad-campeon:before {
+  content: "\e962";
+}
+.wad-erudito:before {
+  content: "\e963";
+}
+.wad-pechera-cuero-placas:before {
+  content: "\e964";
+}
+.wad-e-arai:before {
+  content: "\e92e";
+}
+.wad-e-percy:before {
+  content: "\e932";
+}
+.wad-e-minotauro:before {
+  content: "\e939";
+}
+.wad-e-pegaso:before {
+  content: "\e948";
+}
+.wad-e-empusa:before {
+  content: "\e94d";
+}
+.wad-e-olimpo:before {
+  content: "\e95e";
+}
+.wad-e-automata:before {
+  content: "\e965";
+}
+.wad-e-medusa:before {
+  content: "\e96a";
+}
+.wad-e-satiro:before {
+  content: "\e96b";
+}
